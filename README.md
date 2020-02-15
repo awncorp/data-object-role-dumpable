@@ -138,18 +138,18 @@ Copyright (C) 2011-2019, Al Newkirk, et al.
 
 This is free software; you can redistribute it and/or modify it under the terms
 of the The Apache License, Version 2.0, as elucidated in the ["license
-file"](https://github.com/iamalnewkirk/foobar/blob/master/LICENSE).
+file"](https://github.com/iamalnewkirk/data-object-role-dumpable/blob/master/LICENSE).
 
 # PROJECT
 
-[Wiki](https://github.com/iamalnewkirk/foobar/wiki)
+[Wiki](https://github.com/iamalnewkirk/data-object-role-dumpable/wiki)
 
-[Project](https://github.com/iamalnewkirk/foobar)
+[Project](https://github.com/iamalnewkirk/data-object-role-dumpable)
 
-[Initiatives](https://github.com/iamalnewkirk/foobar/projects)
+[Initiatives](https://github.com/iamalnewkirk/data-object-role-dumpable/projects)
 
-[Milestones](https://github.com/iamalnewkirk/foobar/milestones)
+[Milestones](https://github.com/iamalnewkirk/data-object-role-dumpable/milestones)
 
-[Contributing](https://github.com/iamalnewkirk/foobar/blob/master/CONTRIBUTE.md)
+[Contributing](https://github.com/iamalnewkirk/data-object-role-dumpable/blob/master/CONTRIBUTE.md)
 
-[Issues](https://github.com/iamalnewkirk/foobar/issues)
+[Issues](https://github.com/iamalnewkirk/data-object-role-dumpable/issues)
